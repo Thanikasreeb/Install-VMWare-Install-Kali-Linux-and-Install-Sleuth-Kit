@@ -1,6 +1,6 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
-### Name:
-### Reg No:
+### Name: Thanika Sree B
+### Reg No: 212222100055
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
@@ -57,9 +57,4 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 ## RESULT:
 The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
 
-**SLEUTH-KIT:**
 
-
-
-## RESULT:
-The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
